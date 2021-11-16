@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/openshift/.dotnet/store/|arch|/|tfm|",
+      "/home/openshift/.nuget/packages"
+    ]
+  }
+}
